@@ -26,14 +26,3 @@ A sleek, stylish, and fully responsive **Modern Login Page** created using **HTM
 
 Watch the complete 15-minute step-by-step tutorial building this project from scratch:  
 [👉 Click Here to Watch Full Tutorial](https://www.youtube.com/@BuildVerseHub-x1u) *Login page link* https://www.youtube.com/watch?v=UBgPcEtsODQ&t=1s
-
----
-
-## 📂 Quick Start Guide
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/buildverse94/YOUR-REPOSITORY-NAME.git](https://github.com/buildverse94/YOUR-REPOSITORY-NAME.git)
-
-  
-
