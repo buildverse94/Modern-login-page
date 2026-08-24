@@ -35,5 +35,5 @@ Watch the complete 15-minute step-by-step tutorial building this project from sc
    ```bash
    git clone [https://github.com/buildverse94/YOUR-REPOSITORY-NAME.git](https://github.com/buildverse94/YOUR-REPOSITORY-NAME.git)
 
-   <img width="426" height="211" alt="image" src="https://github.com/user-attachments/assets/e75d2fd7-003b-41d2-8d17-e86d622277b4" />
+  
 
